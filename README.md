@@ -1,4 +1,4 @@
-# Kaggle - Porto Seguro's Safe Driver Competition 
+# Kaggle - Safe Driver Competition 
 
 This project was done with Python 3
 
